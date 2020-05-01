@@ -18,5 +18,5 @@ def file_initial_read():
         data_list.append(inputval)
     contents = contents.format(*data_list)
     print(contents)   
-           
+#git test          
 file_initial_read()  
