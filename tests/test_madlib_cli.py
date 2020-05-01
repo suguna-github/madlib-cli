@@ -1,4 +1,4 @@
-from madlib_cli import __version__
+from madlib_cli.madlib import __version__
 
 
 def test_version():
