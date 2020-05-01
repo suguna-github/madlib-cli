@@ -1,2 +1,0 @@
-def newfunc:
-    print("New")
