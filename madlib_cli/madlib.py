@@ -18,7 +18,5 @@ def file_initial_read():
         data_list.append(inputval)
     contents = contents.format(*data_list)
     print(contents)   
-        #if  istr.endswith('{'):
-            #print(istr)
            
 file_initial_read()  
